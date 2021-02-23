@@ -3,3 +3,4 @@
 ## Nombre de miembros del equipo
 
 Daniel Leonardo Romero
+Juan Miguel Cabrera
